@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "name": "AVR",
+      "includePath": [
+        "C:/Program Files (x86)/Atmel/Studio/7.0/toolchain/avr8/avr8-gnu-toolchain/avr/include/avr/**",
+        "C:/Program Files (x86)/Atmel/Studio/7.0/toolchain/avr8/avr8-gnu-toolchain/avr/include/**",
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "__AVR_ATmega16__"
+      ],
+      "compilerPath": "C:/Program Files (x86)/Atmel/Studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/avr-gcc.exe",
+      "cStandard": "c99",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "gcc-x64",
+      "compilerArgs": [
+        "-mmcu=atmega16"
+      ]
+    }
+  ],
+  "version": 4
+}
