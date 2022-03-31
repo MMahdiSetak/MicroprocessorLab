@@ -4,6 +4,8 @@
 
 This repository contains the answers of projects and excercises from the Microprocessor Lab course at Kharazmi University - Fall of 2021
 
+Most of the elements learned in this course can be found in the the last excercise ([ex7](./ex7))
+
 
 ## License
 
